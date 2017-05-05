@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: fb1d84acbb05b9d48a6408e009fd7a72
+timeCreated: 1484959763
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: throwRun_0
+    21300002: throwRun_1
+    21300004: throwRun_2
+    21300006: throwRun_3
+    21300008: throwRun_4
+    21300010: throwRun_5
+    21300012: throwRun_6
+    21300014: throwRun_7
+    21300016: throwRun_8
+    21300018: throwRun_9
+    21300020: throwRun_10
+    21300022: throwRun_11
+    21300024: throwRun_12
+    21300026: throwRun_13
+    21300028: throwRun_14
+    21300030: throwRun_15
+    21300032: throwRun_16
+    21300034: throwRun_17
+    21300036: throwRun_18
+    21300038: throwRun_19
+    21300040: throwRun_20
+    21300042: throwRun_21
+    21300044: throwRun_22
+    21300046: throwRun_23
+    21300048: throwRun_24
+    21300050: throwRun_25
+    21300052: throwRun_26
+    21300054: throwRun_27
+    21300056: throwRun_28
+    21300058: throwRun_29
+    21300060: throwRun_30
+    21300062: throwRun_31
+    21300064: throwRun_32
+    21300066: throwRun_33
+    21300068: throwRun_34
+    21300070: throwRun_35
+    21300072: throwRun_36
+    21300074: throwRun_37
+    21300076: throwRun_38
+    21300078: throwRun_39
+    21300080: throwRun_40
+    21300082: throwRun_41
+    21300084: throwRun_42
+    21300086: throwRun_43
+    21300088: throwRun_44
+    21300090: throwRun_45
+    21300092: throwRun_46
+    21300094: throwRun_47
+    21300096: throwRun_48
+    21300098: throwRun_49
+    21300100: throwRun_50
+    21300102: throwRun_51
+    21300104: throwRun_52
+    21300106: throwRun_53
+    21300108: throwRun_54
+    21300110: throwRun_55
+    21300112: throwRun_56
+    21300114: throwRun_57
+    21300116: throwRun_58
+    21300118: throwRun_59
+    21300120: throwRun_60
+    21300122: throwRun_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: throwRun_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1783
+        width: 151
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1783
+        width: 147
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1782
+        width: 151
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1782
+        width: 158
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1782
+        width: 170
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_5
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1783
+        width: 179
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_6
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1785
+        width: 185
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_7
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1785
+        width: 190
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1532
+        width: 188
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1533
+        width: 183
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1534
+        width: 178
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1537
+        width: 180
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_12
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1540
+        width: 181
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_13
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1548
+        width: 187
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_14
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1544
+        width: 195
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_15
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1540
+        width: 202
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1283
+        width: 207
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1280
+        width: 209
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1277
+        width: 207
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_19
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1276
+        width: 204
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1276
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_21
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1276
+        width: 201
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_22
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1276
+        width: 195
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_23
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1276
+        width: 242
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1022
+        width: 238
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1022
+        width: 234
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1022
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_27
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1023
+        width: 229
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_28
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1023
+        width: 227
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1023
+        width: 225
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_30
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1024
+        width: 222
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_31
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1023
+        width: 217
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 767
+        width: 211
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 766
+        width: 206
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_34
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 766
+        width: 206
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_35
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 767
+        width: 210
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 769
+        width: 213
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_37
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 771
+        width: 215
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_38
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 774
+        width: 217
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_39
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 778
+        width: 218
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 526
+        width: 217
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 530
+        width: 219
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 536
+        width: 220
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_43
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 540
+        width: 221
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_44
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 538
+        width: 223
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_45
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 534
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_46
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 529
+        width: 228
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_47
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 524
+        width: 232
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 265
+        width: 234
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_49
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 261
+        width: 234
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_50
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 261
+        width: 234
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_51
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 260
+        width: 234
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_52
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 257
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_53
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 257
+        width: 230
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_54
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 257
+        width: 230
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_55
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 257
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 220
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_57
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 174
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_58
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 167
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_59
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 165
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_60
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2
+        width: 160
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: throwRun_61
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3
+        width: 157
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

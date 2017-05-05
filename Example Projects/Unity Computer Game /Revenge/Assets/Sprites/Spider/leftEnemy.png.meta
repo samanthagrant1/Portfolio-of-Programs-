@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 04254e4feaf6139499d7e1ae90fd0088
+timeCreated: 1485335553
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: leftEnemy_0
+    21300002: leftEnemy_1
+    21300004: leftEnemy_2
+    21300006: leftEnemy_3
+    21300008: leftEnemy_4
+    21300010: leftEnemy_5
+    21300012: leftEnemy_6
+    21300014: leftEnemy_7
+    21300016: leftEnemy_8
+    21300018: leftEnemy_9
+    21300020: leftEnemy_10
+    21300022: leftEnemy_11
+    21300024: leftEnemy_12
+    21300026: leftEnemy_13
+    21300028: leftEnemy_14
+    21300030: leftEnemy_15
+    21300032: leftEnemy_16
+    21300034: leftEnemy_17
+    21300036: leftEnemy_18
+    21300038: leftEnemy_19
+    21300040: leftEnemy_20
+    21300042: leftEnemy_21
+    21300044: leftEnemy_22
+    21300046: leftEnemy_23
+    21300048: leftEnemy_24
+    21300050: leftEnemy_25
+    21300052: leftEnemy_26
+    21300054: leftEnemy_27
+    21300056: leftEnemy_28
+    21300058: leftEnemy_29
+    21300060: leftEnemy_30
+    21300062: leftEnemy_31
+    21300064: leftEnemy_32
+    21300066: leftEnemy_33
+    21300068: leftEnemy_34
+    21300070: leftEnemy_35
+    21300072: leftEnemy_36
+    21300074: leftEnemy_37
+    21300076: leftEnemy_38
+    21300078: leftEnemy_39
+    21300080: leftEnemy_40
+    21300082: leftEnemy_41
+    21300084: leftEnemy_42
+    21300086: leftEnemy_43
+    21300088: leftEnemy_44
+    21300090: leftEnemy_45
+    21300092: leftEnemy_46
+    21300094: leftEnemy_47
+    21300096: leftEnemy_48
+    21300098: leftEnemy_49
+    21300100: leftEnemy_50
+    21300102: leftEnemy_51
+    21300104: leftEnemy_52
+    21300106: leftEnemy_53
+    21300108: leftEnemy_54
+    21300110: leftEnemy_55
+    21300112: leftEnemy_56
+    21300114: leftEnemy_57
+    21300116: leftEnemy_58
+    21300118: leftEnemy_59
+    21300120: leftEnemy_60
+    21300122: leftEnemy_61
+    21300124: leftEnemy_62
+    21300126: leftEnemy_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leftEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 973
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 834
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 695
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 556
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_35
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 417
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 278
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_52
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_53
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_54
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_55
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 139
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_58
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_59
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_60
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_61
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_62
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: leftEnemy_63
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 181
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

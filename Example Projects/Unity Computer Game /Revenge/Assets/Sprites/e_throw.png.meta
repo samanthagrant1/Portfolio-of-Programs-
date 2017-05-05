@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: ebbf70d9d00024c4cac63053c63876ff
+timeCreated: 1485262960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: e_throw_0
+    21300002: e_throw_1
+    21300004: e_throw_2
+    21300006: e_throw_3
+    21300008: e_throw_4
+    21300010: e_throw_5
+    21300012: e_throw_6
+    21300014: e_throw_7
+    21300016: e_throw_8
+    21300018: e_throw_9
+    21300020: e_throw_10
+    21300022: e_throw_11
+    21300024: e_throw_12
+    21300026: e_throw_13
+    21300028: e_throw_14
+    21300030: e_throw_15
+    21300032: e_throw_16
+    21300034: e_throw_17
+    21300036: e_throw_18
+    21300038: e_throw_19
+    21300040: e_throw_20
+    21300042: e_throw_21
+    21300044: e_throw_22
+    21300046: e_throw_23
+    21300048: e_throw_24
+    21300050: e_throw_25
+    21300052: e_throw_26
+    21300054: e_throw_27
+    21300056: e_throw_28
+    21300058: e_throw_29
+    21300060: e_throw_30
+    21300062: e_throw_31
+    21300064: e_throw_32
+    21300066: e_throw_33
+    21300068: e_throw_34
+    21300070: e_throw_35
+    21300072: e_throw_36
+    21300074: e_throw_37
+    21300076: e_throw_38
+    21300078: e_throw_39
+    21300080: e_throw_40
+    21300082: e_throw_41
+    21300084: e_throw_42
+    21300086: e_throw_43
+    21300088: e_throw_44
+    21300090: e_throw_45
+    21300092: e_throw_46
+    21300094: e_throw_47
+    21300096: e_throw_48
+    21300098: e_throw_49
+    21300100: e_throw_50
+    21300102: e_throw_51
+    21300104: e_throw_52
+    21300106: e_throw_53
+    21300108: e_throw_54
+    21300110: e_throw_55
+    21300112: e_throw_56
+    21300114: e_throw_57
+    21300116: e_throw_58
+    21300118: e_throw_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: e_throw_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1864
+        width: 130
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1864
+        width: 141
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_2
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1864
+        width: 158
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_3
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1864
+        width: 177
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_4
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1864
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_5
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1864
+        width: 201
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_6
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1864
+        width: 215
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_7
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1864
+        width: 227
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 232
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1599
+        width: 220
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1598
+        width: 220
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1596
+        width: 222
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_12
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1599
+        width: 217
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_13
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1596
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_14
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1599
+        width: 218
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_15
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1599
+        width: 214
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1332
+        width: 214
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1334
+        width: 213
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1335
+        width: 211
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1336
+        width: 208
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_20
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1337
+        width: 207
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_21
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1337
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_22
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1340
+        width: 204
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_23
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1341
+        width: 201
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1076
+        width: 202
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1076
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1076
+        width: 200
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_27
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1075
+        width: 165
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_28
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1073
+        width: 171
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_29
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1075
+        width: 181
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_30
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1075
+        width: 185
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_31
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1076
+        width: 195
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 809
+        width: 200
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 805
+        width: 208
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_34
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 803
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_35
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 803
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_36
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 803
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_37
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 803
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_38
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 803
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_39
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 803
+        width: 213
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 537
+        width: 213
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 537
+        width: 213
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_42
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 537
+        width: 212
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_43
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 537
+        width: 210
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_44
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 537
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_45
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 537
+        width: 208
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_46
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 536
+        width: 208
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_47
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 536
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 270
+        width: 194
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 270
+        width: 186
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 270
+        width: 176
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_51
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 268
+        width: 166
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_52
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 268
+        width: 156
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_53
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 268
+        width: 144
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_54
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 268
+        width: 131
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_55
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 268
+        width: 130
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4
+        width: 127
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 127
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_58
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 4
+        width: 127
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_throw_59
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 4
+        width: 127
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

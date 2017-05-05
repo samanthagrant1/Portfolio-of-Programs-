@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 7ad1cbd9e45a50445b55119124ecd280
+timeCreated: 1485262993
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: e_walk_0
+    21300002: e_walk_1
+    21300004: e_walk_2
+    21300006: e_walk_3
+    21300008: e_walk_4
+    21300010: e_walk_5
+    21300012: e_walk_6
+    21300014: e_walk_7
+    21300016: e_walk_8
+    21300018: e_walk_9
+    21300020: e_walk_10
+    21300022: e_walk_11
+    21300024: e_walk_12
+    21300026: e_walk_13
+    21300028: e_walk_14
+    21300030: e_walk_15
+    21300032: e_walk_16
+    21300034: e_walk_17
+    21300036: e_walk_18
+    21300038: e_walk_19
+    21300040: e_walk_20
+    21300042: e_walk_21
+    21300044: e_walk_22
+    21300046: e_walk_23
+    21300048: e_walk_24
+    21300050: e_walk_25
+    21300052: e_walk_26
+    21300054: e_walk_27
+    21300056: e_walk_28
+    21300058: e_walk_29
+    21300060: e_walk_30
+    21300062: e_walk_31
+    21300064: e_walk_32
+    21300066: e_walk_33
+    21300068: e_walk_34
+    21300070: e_walk_35
+    21300072: e_walk_36
+    21300074: e_walk_37
+    21300076: e_walk_38
+    21300078: e_walk_39
+    21300080: e_walk_40
+    21300082: e_walk_41
+    21300084: e_walk_42
+    21300086: e_walk_43
+    21300088: e_walk_44
+    21300090: e_walk_45
+    21300092: e_walk_46
+    21300094: e_walk_47
+    21300096: e_walk_48
+    21300098: e_walk_49
+    21300100: e_walk_50
+    21300102: e_walk_51
+    21300104: e_walk_52
+    21300106: e_walk_53
+    21300108: e_walk_54
+    21300110: e_walk_55
+    21300112: e_walk_56
+    21300114: e_walk_57
+    21300116: e_walk_58
+    21300118: e_walk_59
+    21300120: e_walk_60
+    21300122: e_walk_61
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: e_walk_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1886
+        width: 200
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1885
+        width: 198
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1884
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1883
+        width: 193
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_4
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1883
+        width: 190
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1882
+        width: 188
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1882
+        width: 185
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1882
+        width: 184
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1614
+        width: 180
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1612
+        width: 173
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1612
+        width: 166
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1611
+        width: 159
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1611
+        width: 151
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1612
+        width: 143
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_14
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1612
+        width: 135
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_15
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1613
+        width: 134
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1346
+        width: 133
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1347
+        width: 133
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1347
+        width: 131
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1348
+        width: 130
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_20
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1348
+        width: 129
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_21
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1349
+        width: 128
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1349
+        width: 127
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_23
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1350
+        width: 128
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1082
+        width: 129
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1082
+        width: 131
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1081
+        width: 132
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1080
+        width: 132
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1079
+        width: 134
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_29
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1078
+        width: 136
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_30
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1077
+        width: 136
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_31
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1077
+        width: 138
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 809
+        width: 139
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 809
+        width: 140
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 809
+        width: 141
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_35
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 809
+        width: 142
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_36
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 809
+        width: 144
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_37
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 809
+        width: 146
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_38
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 809
+        width: 147
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_39
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 808
+        width: 147
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 540
+        width: 144
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 539
+        width: 140
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_42
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 539
+        width: 135
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_43
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 539
+        width: 132
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_44
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 539
+        width: 128
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_45
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 539
+        width: 126
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_46
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 539
+        width: 123
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_47
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 539
+        width: 122
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 270
+        width: 122
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 128
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_50
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 270
+        width: 132
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_51
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 270
+        width: 137
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_52
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 271
+        width: 142
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_53
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 272
+        width: 149
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_54
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 274
+        width: 161
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_55
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 275
+        width: 169
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 175
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 7
+        width: 180
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_58
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 8
+        width: 184
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 9
+        width: 189
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_60
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 10
+        width: 192
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: e_walk_61
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 9
+        width: 196
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

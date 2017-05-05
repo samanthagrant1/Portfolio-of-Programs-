@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 4a184de42c0253b41bf2b89175ecc5b3
+timeCreated: 1485335573
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rightAttackEnemy_0
+    21300002: rightAttackEnemy_1
+    21300004: rightAttackEnemy_2
+    21300006: rightAttackEnemy_3
+    21300008: rightAttackEnemy_4
+    21300010: rightAttackEnemy_5
+    21300012: rightAttackEnemy_6
+    21300014: rightAttackEnemy_7
+    21300016: rightAttackEnemy_8
+    21300018: rightAttackEnemy_9
+    21300020: rightAttackEnemy_10
+    21300022: rightAttackEnemy_11
+    21300024: rightAttackEnemy_12
+    21300026: rightAttackEnemy_13
+    21300028: rightAttackEnemy_14
+    21300030: rightAttackEnemy_15
+    21300032: rightAttackEnemy_16
+    21300034: rightAttackEnemy_17
+    21300036: rightAttackEnemy_18
+    21300038: rightAttackEnemy_19
+    21300040: rightAttackEnemy_20
+    21300042: rightAttackEnemy_21
+    21300044: rightAttackEnemy_22
+    21300046: rightAttackEnemy_23
+    21300048: rightAttackEnemy_24
+    21300050: rightAttackEnemy_25
+    21300052: rightAttackEnemy_26
+    21300054: rightAttackEnemy_27
+    21300056: rightAttackEnemy_28
+    21300058: rightAttackEnemy_29
+    21300060: rightAttackEnemy_30
+    21300062: rightAttackEnemy_31
+    21300064: rightAttackEnemy_32
+    21300066: rightAttackEnemy_33
+    21300068: rightAttackEnemy_34
+    21300070: rightAttackEnemy_35
+    21300072: rightAttackEnemy_36
+    21300074: rightAttackEnemy_37
+    21300076: rightAttackEnemy_38
+    21300078: rightAttackEnemy_39
+    21300080: rightAttackEnemy_40
+    21300082: rightAttackEnemy_41
+    21300084: rightAttackEnemy_42
+    21300086: rightAttackEnemy_43
+    21300088: rightAttackEnemy_44
+    21300090: rightAttackEnemy_45
+    21300092: rightAttackEnemy_46
+    21300094: rightAttackEnemy_47
+    21300096: rightAttackEnemy_48
+    21300098: rightAttackEnemy_49
+    21300100: rightAttackEnemy_50
+    21300102: rightAttackEnemy_51
+    21300104: rightAttackEnemy_52
+    21300106: rightAttackEnemy_53
+    21300108: rightAttackEnemy_54
+    21300110: rightAttackEnemy_55
+    21300112: rightAttackEnemy_56
+    21300114: rightAttackEnemy_57
+    21300116: rightAttackEnemy_58
+    21300118: rightAttackEnemy_59
+    21300120: rightAttackEnemy_60
+    21300122: rightAttackEnemy_61
+    21300124: rightAttackEnemy_62
+    21300126: rightAttackEnemy_63
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rightAttackEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 973
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_12
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_13
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_15
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 834
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_19
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_20
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_23
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 695
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_26
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_30
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_31
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 556
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_37
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_38
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_39
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 417
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_43
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_45
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_46
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_47
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 278
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_51
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_52
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_53
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_54
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_55
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 139
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_60
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_61
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_62
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rightAttackEnemy_63
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
